@@ -1,0 +1,2 @@
+script_key = getgenv().dsx.StartUP.Key;
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a4b6c3d96092f938e12affaa74cc3cad.lua"))()
