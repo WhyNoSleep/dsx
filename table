@@ -1,4 +1,4 @@
-getgenv().Looten = {
+getgenv().dsx = {
     ['StartUP'] = {
         Key = 'LuarmorKey', -- replace with luarmor key
         UWP_Optimize = true,
