@@ -223,4 +223,4 @@ getgenv().dsx = {
     },
   }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WhyNoSleep/dsx/new/main", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WhyNoSleep/dsx/main/dsx", true))()
